@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">Exam M.Nur Fajar</string>
+
+    <string name="Alabama"> "ID State": "04000US01",
+      "State": "Alabama",
+      "ID Year": 2022,
+      "Year": "2022",
+      "Population": 5028092,
+      "Slug State": "alabama"</string>
+    <string name="Alaska"> "ID State": "04000US02",
+      "State": "Alaska",
+      "ID Year": 2022,
+      "Year": "2022",
+      "Population": 734821,
+      "Slug State": "alaska"</string>
+    <string name="Arizona"> "ID State": "04000US04",
+      "State": "Arizona",
+      "ID Year": 2022,
+      "Year": "2022",
+      "Population": 7172282,
+      "Slug State": "arizona"</string>
+    <string name="Arkansas"> "ID State": "04000US05",
+      "State": "Arkansas",
+      "ID Year": 2022,
+      "Year": "2022",
+      "Population": 3018669,
+      "Slug State": "arkansas"</string>
+    <string name="California"> "ID State": "04000US06",
+      "State": "California",
+      "ID Year": 2022,
+      "Year": "2022",
+      "Population": 39356104,
+      "Slug State": "california"</string>
+    <string name="Colorado"> "ID State": "04000US08",
+      "State": "Colorado",
+      "ID Year": 2022,
+      "Year": "2022",
+      "Population": 5770790,
+      "Slug State": "colorado"</string>
+    <string name="Delaware"> "ID State": "04000US10",
+      "State": "Delaware",
+      "ID Year": 2022,
+      "Year": "2022",
+      "Population": 993635,
+      "Slug State": "delaware"</string>
+    <string name="Florida"> "ID State": "04000US12",
+      "State": "Florida",
+      "ID Year": 2022,
+      "Year": "2022",
+      "Population": 21634529,
+      "Slug State": "florida"</string>
+    <string name="Hawaii"> "ID State": "04000US15",
+      "State": "Hawaii",
+      "ID Year": 2022,
+      "Year": "2022",
+      "Population": 1450589,
+      "Slug State": "hawaii"</string>
+    <string name="Indiana"> "ID State": "04000US18",
+      "State": "Indiana",
+      "ID Year": 2022,
+      "Year": "2022",
+      "Population": 6784403,
+      "Slug State": "indiana"</string>
+    <string name="NewYork"> "ID State": "04000US36",
+      "State": "New York",
+      "ID Year": 2022,
+      "Year": "2022",
+      "Population": 19994379,
+      "Slug State": "new-york"</string>
+    <string name="Texas"> "ID State": "04000US48",
+      "State": "Texas",
+      "ID Year": 2022,
+      "Year": "2022",
+      "Population": 29243342,
+      "Slug State": "texas"</string>
+    <string name="Washington"> "ID State": "04000US53",
+      "State": "Washington",
+      "ID Year": 2022,
+      "Year": "2022",
+      "Population": 7688549,
+      "Slug State": "washington"</string>
+    <string name="PuertoRico"> "ID State": "04000US72",
+      "State": "Puerto Rico",
+      "ID Year": 2022,
+      "Year": "2022",
+      "Population": 3272382,
+      "Slug State": "puerto-rico"</string>
+
+</resources>
